@@ -1,0 +1,269 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background: black;
+}
+.main_wrapper {
+  margin: 10px auto;
+}
+.con {
+  margin-bottom: 200px;
+  width: 1000px;
+  height: 200px;
+  margin-top: 100px;
+}
+.con span {
+  color: #2ecc71;
+}
+.pa {
+  height: 82px;
+  margin-left: 300px;
+  margin-top: -520px;
+}
+.pa p {
+  color: white;
+  font-family: Pacifico;
+  font-size: 60px;
+}
+
+.comb {
+  margin-left: 300px;
+  padding-top: 40px;
+}
+.comb span p {
+  font-family: Helvetica Neue Medium;
+  font-size: 24px;
+  color: white;
+}
+.head_icon {
+  display: inline;
+}
+.head_icon img {
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.navigation {
+  min-height: 332px;
+  background: white;
+}
+.nav_img {
+  display: inline;
+  display: block;
+}
+.imgparabig1 {
+  width: 400px;
+  height: 310px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+.imgparabig1 img {
+  margin-left: 200px;
+  margin-top: 80px;
+}
+.imgparabig1 span {
+  text-align: center;
+}
+.imgparabig1 span p {
+  text-align: center;
+  margin-left: 100px;
+  font-family: Raleway SemiBold;
+  font-size: 22px;
+  color: black;
+}
+.imgparabig1 p {
+  text-align: center;
+  margin-left: 70px;
+  font-family: Raleway SemiBold;
+  font-size: 16px;
+  color: black;
+}
+.imgparabig2 {
+  width: 400px;
+  height: 310px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 70px;
+}
+.imgparabig2 img {
+  margin-left: 200px;
+  margin-top: 80px;
+}
+.imgparabig2 span {
+  text-align: center;
+}
+.imgparabig2 span p {
+  text-align: center;
+  margin-left: 100px;
+  font-family: Raleway SemiBold;
+  font-size: 22px;
+  color: black;
+}
+.imgparabig2 p {
+  text-align: center;
+  margin-left: 70px;
+  font-family: Raleway SemiBold;
+  font-size: 16px;
+  color: black;
+}
+.imgparabig3 {
+  width: 400px;
+  height: 310px;
+
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.imgparabig3 img {
+  margin-left: 200px;
+  margin-top: 80px;
+}
+.imgparabig3 span {
+  text-align: center;
+}
+.imgparabig3 span p {
+  text-align: center;
+  margin-left: 100px;
+  font-family: Raleway SemiBold;
+  font-size: 22px;
+  color: black;
+}
+.imgparabig3 p {
+  text-align: center;
+  margin-left: 70px;
+  font-family: Raleway SemiBold;
+  font-size: 16px;
+  color: black;
+}
+.container1 {
+  height: 430px;
+  background: #e3e3e3;
+}
+.getnoti {
+  width: 750px;
+  height: 400px;
+  margin-top: 40px;
+  float: left;
+}
+.getnoti h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 65px;
+  font-family: Raleway SemiBold;
+  font-size: 22px;
+  color: black;
+  padding-bottom: 5px;
+  margin-left: -50px;
+}
+/* .getnoti span {
+  margin-left: 200px;
+  padding-bottom: 15px;
+}
+.getnoti span p {
+  margin-top: 65px;
+  font-family: Raleway SemiBold;
+  font-size: 22px;
+  color: black;
+  padding-bottom: 5px;
+} */
+.getnoti p {
+  margin-left: 200px;
+  font-family: Helvetica Neue Regular;
+  font-size: 16px;
+  color: black;
+  margin-top: -5px;
+  padding-bottom: 15px;
+}
+.getnoti div {
+  margin-left: 200px;
+}
+form .Email input[type="text"] {
+  width: 300px;
+  height: 53px;
+  border-radius: 10px 0px 0px 10px;
+  border: 1px solid gray;
+  padding: 15px;
+  font-family: Helvetica Neue Regular;
+  font-size: 18px;
+  color: #848484;
+  margin-top: -1px;
+}
+form .Email input[type="submit"] {
+  width: 140px;
+  height: 54px;
+  border-radius: 0px 10px 10px 0px;
+  background: #2ecc71;
+  padding: 13px;
+  font-family: Raleway Bold;
+  font-size: 22px;
+  color: #fff;
+  cursor: pointer;
+  margin-left: -5px;
+  border: 1px solid #2ecc71;
+}
+.video {
+  margin-top: 10px;
+  margin-right: 10px;
+  float: right;
+}
+.video video {
+  width: 500px;
+  height: 300px;
+  margin-top: 65px;
+  margin-right: 50px;
+
+  cursor: pointer;
+}
+
+.container2 {
+  height: 465px;
+  background: white;
+}
+.container2 span {
+  margin-left: 400px;
+}
+.container2 span p {
+  margin-top: 65px;
+  font-family: Helvetica Neue Italic;
+  font-size: 18px;
+  color: #848484;
+  text-align: center;
+}
+.container2 img {
+  margin-left: 180px;
+  cursor: pointer;
+}
+.social_img {
+  display: inline;
+  margin-left: 350px;
+}
+.social_img img {
+  margin-right: -190px;
+  padding-right: 20px;
+}
+.foot {
+  height: 130px;
+  background: #e3e3e3;
+  margin-top: -20px;
+}
+
+.foot_bar ul {
+  margin-left: 400px;
+}
+.foot_bar ul li {
+  float: left;
+  list-style: none;
+  margin-top: 60px;
+}
+.foot_bar ul li a {
+  text-decoration: none;
+  padding: 20px;
+  font-family: Helvetica Neue Regular;
+  font-size: 16px;
+  color: #848484;
+}
+.foot_bar ul li a:hover {
+  text-decoration: underline;
+}
